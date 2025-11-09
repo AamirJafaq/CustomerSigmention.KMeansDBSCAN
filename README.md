@@ -1,4 +1,4 @@
-# CustomerSigmention.KMeansDBSCAN
+# CustomerSegmention.KMeansDBSCAN
 Classify the customers based on their annual income and spending score using KMeans and DBSCAN. Comparing both techniques and analyze average spending per cluster.
 * Dataset (Recommended): Mall Customer (Kaggle)
 * Cluster customers into segments based on income and spending score
